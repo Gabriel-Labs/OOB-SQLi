@@ -1,4 +1,7 @@
 # OOB-SQLi
+
+Out-of-Band (OOB) Structured Query Language (SQL) Injection is an exploitation to exfiltrate data from database through different outbound channel. Common channel use by OOB SQL Injection for data exfiltration are through Domain Name Server (DNS) and HyperText Transfer Protocol (HTTP) channels. 
+
 # DNS Based Exfiltration
 
 1. Microsoft SQL database

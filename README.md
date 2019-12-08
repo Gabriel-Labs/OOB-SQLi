@@ -2,7 +2,8 @@
 
 This part is for sharing sample queries for Out-of-Band (OOB) Structured Query Language (SQL) injection purpose. The detailed discussion may refer to the following links
 
-https://zenodo.org/record/3556347#.XeDK1tURVPY\https://www.academia.edu/41117452/A_Study_of_Out-of-Band_Structured_Query_Language_Injection
+https://zenodo.org/record/3556347#.XeDK1tURVPY \
+https://www.academia.edu/41117452/A_Study_of_Out-of-Band_Structured_Query_Language_Injection
 
 # DNS Based Exfiltration
 
